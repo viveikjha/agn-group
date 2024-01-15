@@ -1,16 +1,29 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Welcome to the group
+subtitle: We extend our greetings to the newly joined people.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-author: Bill Smith
+author: Vivek Kumar Jha
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+This is a demo post to show what we plan to do with this webpage. Once we start collecting the data, we can also put a person counter on the website to make sense of the data coming through.
+
+
+
+- Collect information about people already involved in AGN research in the country. The researchers can be of any level, and we need to generate an automatic mailing list where we can send weekly updates to everyone.
+
+- The weekly updates may involve papers, conference information, postdoc opportunities, awards/fellowships granted to our members, new joinings etc.
+
+- Present some statistics about research being conducted in AGNs throughout the country, get in regular touch with IUCAA to organize regular meetings etc.
+
+- An interactive map of all the faculty members involved in AGN research across the country. Can be used through a google maps plugin.
+
+-  A platform to discuss science, maybe once a month we nominate a member who will present talks on a common platform and we may record it.
+
+
 
 **Here is some bold text**
 
