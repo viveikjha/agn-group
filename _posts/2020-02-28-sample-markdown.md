@@ -11,7 +11,7 @@ author: Vivek Kumar Jha
 
 This is a demo post to show what we plan to do with this webpage. Once we start collecting the data, we can also put a person counter on the website to make sense of the data coming through.
 
-
+**First of all there should be a name, which will be associated with google and github as well as social media (twitter/facebook) accounts. This name is what we want to promote and add as many people as we can.
 
 - Collect information about people already involved in AGN research in the country. The researchers can be of any level, and we need to generate an automatic mailing list where we can send weekly updates to everyone.
 
