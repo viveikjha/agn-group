@@ -9,20 +9,24 @@ comments: true
 author: Vivek Kumar Jha
 ---
 
-This is a demo post to show what we plan to do with this webpage. Once we start collecting the data, we can also put a person counter on the website to make sense of the data coming through.
+### Hello everyone!
 
-**First of all there should be a name, which will be associated with google and github as well as social media (twitter/facebook) accounts. This name is what we want to promote and add as many people as we can.
+Active Galactic Nuclei (AGN) and its related fields are subjects of dynamic research in our country. The research activities are spread all over the country in various institutions, universities and colleges.  We look forward to building a community of Indian Astronomical Researchers working on AGN, with the aim of enhancing discussions and scientific collaborations. This idea was put forward during the panel discussion on 'AGN research in India' during the 9th Southern Regional Astronomy Meeting held at Manipal Academy of Higher Education, Karnataka. A student group was formed during the meeting to coordinate the formation of this nation-wide community.
+A few programs we intend to do are:
 
-- Collect information about people already involved in AGN research in the country. The researchers can be of any level, and we need to generate an automatic mailing list where we can send weekly updates to everyone.
+1. Formation of a mailing group.
+2.  Building a repository of researchers with their expertise details.
+3. Weekly/biweekly paper discussions by young researchers.
+4. A website with useful links to various tools, books, and lectures.
+5. Promoting knowledge sharing through online platforms.  
+6. Any other new ideas are welcome!!
 
-- The weekly updates may involve papers, conference information, postdoc opportunities, awards/fellowships granted to our members, new joinings etc.
+This Google form is being circulated as a part of collecting the data for the same. We request you to kindly fill up the form at the earliest, giving in all relevant details. Looking forward to your active participation!
+Contact the team below for any queries.
 
-- Present some statistics about research being conducted in AGNs throughout the country, get in regular touch with IUCAA to organize regular meetings etc.
-
-- An interactive map of all the faculty members involved in AGN research across the country. Can be used through a google maps plugin.
-
--  A platform to discuss science, maybe once a month we nominate a member who will present talks on a common platform and we may record it.
-
+1. Dr. Vivek Kumar Jha, Manipal Academy of Higher Education, Karnataka - vivekjha.aries@gmail.com
+2. Akhila K, Providence Women's College, Calicut, Kerala -  akhilasadanandan@gmail.com
+3. Amal Abdulrahman, Farook College (Autonomous), Calicut, Kerala - amalar.amal@gmail.com
 
 
 **Here is some bold text**
